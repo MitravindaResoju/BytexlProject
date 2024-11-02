@@ -6,7 +6,8 @@ This project focuses on developing a tool that translates spoken English into In
 
 ## Author
 **Name:** Mitravinda Resoju  
-**Email:** saketharesoju@gmail.com 
+**Email:** saketharesoju@gmail.com
+ 
 
 ## Project Details
 
